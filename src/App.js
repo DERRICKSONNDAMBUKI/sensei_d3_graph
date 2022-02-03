@@ -1,10 +1,10 @@
-import vega from 'vega'
-import vegaLite from 'vega-lite'
-import vl from 'vega-lite-api'
-import {Handler} from 'vega-tooltip'
-import {Config} from './components/Config'
+import vega from 'vega';
+import vegaLite from 'vega-lite';
+import vl from 'vega-lite-api';
+import {Handler} from 'vega-tooltip';
+import {Config} from './components/Config';
 import {GetData} from './components/GetData';
-import {Viz} from './components/Viz'
+import {Viz} from './components/Viz';
 
 
 function App() {

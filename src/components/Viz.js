@@ -1,4 +1,4 @@
-import vl from 'vega-lite-api'
+import vl from 'vega-lite-api';
 
 export const Viz = vl.makePoint().encode(
     vl.x().fieldQ('acceleration').scale({zero:false}),

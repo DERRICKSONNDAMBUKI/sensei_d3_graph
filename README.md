@@ -74,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ```
 npm i vega-lite vega-lite-api vega-tooltip vega
 ```
+
+## ricky has bugs
